@@ -1,0 +1,8 @@
+{
+	"require": {
+		"monolog/monolog": "1.0.*",
+		"workerman/workerman": "^3.3",
+		"lokielse/omnipay-wechatpay": "^1.0",
+		"phpfastcache/phpfastcache": "^6.0"
+	}
+}
